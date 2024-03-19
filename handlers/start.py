@@ -7,7 +7,7 @@ router = Router()
 
 @router.message(Command("start"))
 async def start(message: Message):
-    await message.answer(text="hello")
+    await message.answer(text=f"hello, {message.from_user.username}")
 
 
 start_rt = router
