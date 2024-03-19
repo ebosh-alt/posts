@@ -22,3 +22,5 @@ D
 handlers/__init__.py,c\a\ca8a6c0f50b06fb4f156bae376a67a56475361ea
 A
 handlers/start.py,d\4\d4acc6a7c2620ea8429e17230d0b0d3cca061b3f
+D
+messages/__init__.py,3\9\39ce187d9bdb6e8aecffbda57355600a69ec110c
