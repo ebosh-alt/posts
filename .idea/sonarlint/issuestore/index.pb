@@ -24,3 +24,5 @@ A
 handlers/start.py,d\4\d4acc6a7c2620ea8429e17230d0b0d3cca061b3f
 D
 messages/__init__.py,3\9\39ce187d9bdb6e8aecffbda57355600a69ec110c
+D
+sytemd/posts.service,5\6\565fffdbcf5fb947dd59b668aa3cfe6d3890d6b2
