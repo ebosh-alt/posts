@@ -1,0 +1,26 @@
+{
+    "text": "new message",
+    "media": [
+        {
+            "name": "name_1",
+            "type": "type_1",
+            "path": "path_1"
+        },
+        {
+            "name": "name_2",
+            "type": "type_2",
+            "path": "path_2"
+        }
+    ],
+    "buttons": [
+        {
+            "text": "text_1",
+            "callback": "callback_1"
+        },
+        {
+            "text": "text_2",
+            "callback": "callback_2"
+        }
+    ],
+    "visibility": true
+}
